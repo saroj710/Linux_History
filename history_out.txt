@@ -75,84 +75,84 @@
    75  git remote add origin https://github.com/saroj710/Linux_History.git
    76  git push -u origin main 
    77  https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
-[ninja@localhost repo]$
- unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
-   78  git config --global --unset http.proxy
-   79  git config --global  --edit
-   80  git config --global --unset user.Ninja
+   78  [ninja@localhost repo]$
+   79   unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
+   80  git config --global --unset http.proxy
    81  git config --global  --edit
-   82  git config --global --unset user.ninja@localhost.localdomain
-   83  git remote add origin https://github.com/saroj710/Linux_History.git
-   84  git push -u origin main 
-   85  ls -a
-   86  cd .git/
+   82  git config --global --unset user.Ninja
+   83  git config --global  --edit
+   84  git config --global --unset user.ninja@localhost.localdomain
+   85  git remote add origin https://github.com/saroj710/Linux_History.git
+   86  git push -u origin main 
    87  ls -a
-   88  vim config 
-   89  cd
-   90  rm -rf repo/
-   91  mkdir repo
-   92  cd repo
-   93  git init 
-   94  ls
-   95  vim test
-   96  git add 
-   97  git add .
-   98  git commit -m "test1"
-   99  git remote add origin https://github.com/saroj710/Linux_History.git
-  100  git push -u origin master 
-  101  git push -u origin main
-  102  git config --global user.name "Your Name"
-  103  git config --global user.name "Ninja"
-  104  git config --global user.email you@example.com
-  105  git config --global user.email ninja@localhost.localdomain
-  106  git commit --amend --reset-author
-  107  git push -u origin master 
-  108  unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
-  109  cd
-  110  mkdir test
-  111  cd test
-  112  git init
-  113  vim ami
-  114  git add .
-  115  git commit -m "first commit"
-  116  git branch -M main
-  117  git remote add origin https://github.com/saroj710/sd.git
-  118  git push -u origin main
-  119  echo "# sd" >> README.md
-  120  git init
-  121  git add README.md
-  122  git commit -m "first commit"
-  123  git branch -M main
-  124  git remote add origin https://github.com/saroj710/sd.git
-  125  git push -u origin main
-  126  fatal: unable to access 'https://github.com/saroj710/sd.git/': Could not resolve host: github.com
-  127  git remote -v
-  128  ls
-  129  ls -la
-  130  cat ami
-  131  cd ..
-  132  ls
-  133  cd ami
-  134  his
-  135  ls
-  136  cd ..ls
-  137  cd ..
-  138  ls
-  139  cd repo/
+   88  cd .git/
+   89  ls -a
+   90  vim config 
+   91  cd
+   92  rm -rf repo/
+   93  mkdir repo
+   94  cd repo
+   95  git init 
+   96  ls
+   97  vim test
+   98  git add 
+   99  git add .
+  100  git commit -m "test1"
+  101  git remote add origin https://github.com/saroj710/Linux_History.git
+  102  git push -u origin master 
+  103  git push -u origin main
+  104  git config --global user.name "Your Name"
+  105  git config --global user.name "Ninja"
+  106  git config --global user.email you@example.com
+  107  git config --global user.email ninja@localhost.localdomain
+  108  git commit --amend --reset-author
+  109  git push -u origin master 
+  110  unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
+  111  cd
+  112  mkdir test
+  113  cd test
+  114  git init
+  115  vim ami
+  116  git add .
+  117  git commit -m "first commit"
+  118  git branch -M main
+  119  git remote add origin https://github.com/saroj710/sd.git
+  120  git push -u origin main
+  121  echo "# sd" >> README.md
+  122  git init
+  123  git add README.md
+  124  git commit -m "first commit"
+  125  git branch -M main
+  126  git remote add origin https://github.com/saroj710/sd.git
+  127  git push -u origin main
+  128  fatal: unable to access 'https://github.com/saroj710/sd.git/': Could not resolve host: github.com
+  129  git remote -v
+  130  ls
+  131  ls -la
+  132  cat ami
+  133  cd ..
+  134  ls
+  135  cd ami
+  136  his
+  137  ls
+  138  cd ..ls
+  139  cd ..
   140  ls
-  141  cat test 
-  142  nano ~/.bashrc 
-  143  ls -la
-  144  git remote add origin https://saroj710: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@github.com/saroj710/Linux_History.git
-  145  git remote add origin1 https://saroj710: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@github.com/saroj710/Linux_History.git
-  146  git push -u origin1 master 
-  147  ping github.cm
-  148  ping github.com
-  149  ip a
-  150  ping 10.126.60.240
-  151  ping 8.8.8.8
-  152  nmtui
-  153  sudo nmtui
-  154  ping 8.8.8.8
-  155  git push -u origin1 master 
-  156  hist
+  141  cd repo/
+  142  ls
+  143  cat test 
+  144  nano ~/.bashrc 
+  145  ls -la
+  146  git remote add origin https://saroj710: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@github.com/saroj710/Linux_History.git
+  147  git remote add origin1 https://saroj710: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@github.com/saroj710/Linux_History.git
+  148  git push -u origin1 master 
+  149  ping github.cm
+  150  ping github.com
+  151  ip a
+  152  ping 10.126.60.240
+  153  ping 8.8.8.8
+  154  nmtui
+  155  sudo nmtui
+  156  ping 8.8.8.8
+  157  git push -u origin1 master 
+  158  hist
