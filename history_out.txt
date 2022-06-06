@@ -1,0 +1,158 @@
+    1  yum remove httpd
+    2  suao yum remove httpd
+    3  sudo yum remove httpd
+    4  rpm -q httpd
+    5  ls /var/www/html/
+    6  yum group install 'Basic Web Server'
+    7  sudo yum group install 'Basic Web Server'
+    8  yum clean packages 
+    9  sudo yum remove httpd
+   10  sudo yum install httpd
+   11  exit
+   12  ls
+   13  cd repo
+   14  ls
+   15  rm -rf his historyf.txt 
+   16  ls
+   17  hist
+   18  jobs
+   19  fg
+   20  ps
+   21  hist
+   22  fatal: unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.c                  om
+   23  vim  test
+   24  cd
+   25  vim .bashrc 
+   26  cd repo/
+   27  ls
+   28  cat history_out.txt 
+   29  ls
+   30  echo "# sd" >> README.md
+   31  git init
+   32  git add README.md
+   33  git commit -m "first commit"
+   34  git branch -M main
+   35  git remote add origin https://github.com/saroj710/sd.git
+   36  git push -u origin main
+   37  git status 
+   38  ls
+   39  git add history_out.txt 
+   40  git commit -m "test commit"
+   41  git add .
+   42  git commit -m "test commit"
+   43  git remote add origin https://github.com/saroj710/Linux_History.git
+   44  git push -u origin main 
+   45  git config --global  --edit 
+   46  git commit  --amend --reset-author 
+   47  git add .
+   48  git commit -m "test commit12"
+   49  ls
+   50  git push -u origin main 
+   51  On branch main
+   52  Your branch is ahead of 'origin/main' by 4 commits.
+   53    (use "git push" to publish your local commits)
+   54  nothing to commit, working tree clean
+   55  git reset --hard HEAD
+   56  git reset origin/master
+   57  git reset origin main 
+   58  git reset HEAD^0
+   59  git status 
+   60  git reset HEAD^0
+   61  git status 
+   62  git restore *
+   63  git status 
+   64  git reflog 
+   65  git reset --hard 1f408cf 
+   66  git stash pop
+   67  git reset 1f408cf 
+   68  git status 
+   69  ls
+   70  rm -rf test 
+   71  ls
+   72  git add .
+   73  git commit -m "history"
+   74  git branch -M main 
+   75  git remote add origin https://github.com/saroj710/Linux_History.git
+   76  git push -u origin main 
+   77  https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
+[ninja@localhost repo]$
+ unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
+   78  git config --global --unset http.proxy
+   79  git config --global  --edit
+   80  git config --global --unset user.Ninja
+   81  git config --global  --edit
+   82  git config --global --unset user.ninja@localhost.localdomain
+   83  git remote add origin https://github.com/saroj710/Linux_History.git
+   84  git push -u origin main 
+   85  ls -a
+   86  cd .git/
+   87  ls -a
+   88  vim config 
+   89  cd
+   90  rm -rf repo/
+   91  mkdir repo
+   92  cd repo
+   93  git init 
+   94  ls
+   95  vim test
+   96  git add 
+   97  git add .
+   98  git commit -m "test1"
+   99  git remote add origin https://github.com/saroj710/Linux_History.git
+  100  git push -u origin master 
+  101  git push -u origin main
+  102  git config --global user.name "Your Name"
+  103  git config --global user.name "Ninja"
+  104  git config --global user.email you@example.com
+  105  git config --global user.email ninja@localhost.localdomain
+  106  git commit --amend --reset-author
+  107  git push -u origin master 
+  108  unable to access 'https://github.com/saroj710/Linux_History.git/': Could not resolve host: github.com
+  109  cd
+  110  mkdir test
+  111  cd test
+  112  git init
+  113  vim ami
+  114  git add .
+  115  git commit -m "first commit"
+  116  git branch -M main
+  117  git remote add origin https://github.com/saroj710/sd.git
+  118  git push -u origin main
+  119  echo "# sd" >> README.md
+  120  git init
+  121  git add README.md
+  122  git commit -m "first commit"
+  123  git branch -M main
+  124  git remote add origin https://github.com/saroj710/sd.git
+  125  git push -u origin main
+  126  fatal: unable to access 'https://github.com/saroj710/sd.git/': Could not resolve host: github.com
+  127  git remote -v
+  128  ls
+  129  ls -la
+  130  cat ami
+  131  cd ..
+  132  ls
+  133  cd ami
+  134  his
+  135  ls
+  136  cd ..ls
+  137  cd ..
+  138  ls
+  139  cd repo/
+  140  ls
+  141  cat test 
+  142  nano ~/.bashrc 
+  143  ls -la
+  144  git remote add origin https://saroj710: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@github.com/saroj710/Linux_History.git
+  145  git remote add origin1 https://saroj710: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@github.com/saroj710/Linux_History.git
+  146  git push -u origin1 master 
+  147  ping github.cm
+  148  ping github.com
+  149  ip a
+  150  ping 10.126.60.240
+  151  ping 8.8.8.8
+  152  nmtui
+  153  sudo nmtui
+  154  ping 8.8.8.8
+  155  git push -u origin1 master 
+  156  hist
